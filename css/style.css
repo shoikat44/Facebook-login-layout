@@ -1,0 +1,59 @@
+body{
+   
+margin: 0;
+}
+header{
+    background: #425F9B;
+    padding: 7px 0;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+.logo{
+    width: 50%;
+    float: left;
+}
+.logo a{font-size: 50px;text-decoration: none;color: white;text-transform: lowercase;font-weight: 600;}
+.login{
+    width: 50%;
+    float: right;
+}
+form{
+    overflow: hidden;
+}
+.input{
+    width: 40%;
+    float: left;
+    padding: 5px;
+    box-sizing: border-box;
+}
+label{
+    color: white;
+}
+input{}
+.input input{
+    width: 100%;
+    border: 1px solid black;
+    margin: 5px 0px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+}
+.input a{
+    color: #ffffff63;
+    text-decoration: none;
+    font-size: smaller;
+}
+.submit{
+    width: 20%;
+    float: left;
+}
+.submit input{
+    background: #3578E5;
+    border: 1px solid black;
+    color: white;
+    padding: 1px 1px;
+    border-radius: 2px;
+    margin-top: 32px;
+}
