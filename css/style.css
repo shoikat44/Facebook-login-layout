@@ -57,3 +57,32 @@ input{}
     border-radius: 2px;
     margin-top: 32px;
 }
+
+.body{
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(white, #D3D8E8);
+}
+.leftside{
+    width: 50%;
+    float: left;
+}
+.leftside p{
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px;
+}
+.leftside img{
+    width: 536px;
+    height: 194px;
+}
+.rightside{width: 40%;
+    float: right;}
+.rightside form h1{}
+.rightside form h4{}
+.firstname input{}
+.body-input{}
